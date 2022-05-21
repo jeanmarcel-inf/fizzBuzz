@@ -1,4 +1,4 @@
-function FizzBuzz(numero){
+function fizzBuzz(numero){
 
     /* Se, o resto da divisão do numero inserido for igual a '0', este, é divisível por '3' e '5',
     e retornará o valor FizzBuzz!  */
